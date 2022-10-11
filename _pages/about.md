@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Cyber Security Research Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
