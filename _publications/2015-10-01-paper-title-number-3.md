@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Edge-Based Collaborative Training System for Artificial Intelligence-of-Things"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+excerpt: 'The descending of intelligence from the cloud to the heterogeneous and low-power edge in the Artificial Intelligence-of-Things prevents uploading user-sensitive information to the cloud. It brings an urgent demand for deploying training tasks collaboratively in industrial scenarios to manage data locally. This article proposes an edge-based collaborative training system for the smart factory which harnesses the intelligence of edge devices by balancing the computational and communicational resources and improving system dependability. Two typical scenarios of parts recognition and defect inspection are evaluated as a case study with our system. The feasibility and dependability of the presented system are verified with a platform composed of eight high-performance (Nvidia Jetson Nano) and eight low-performance edge devices (Raspberry Pi 4B). The efficiency under tradeoff between computational resource and network condition constraints in a cluster is tested to simulate real-case performance in smart factory scenarios. Our platform reaches the peak performance of 1167 images/s training efficiency on ResNet32 under a 125 MB/s bandwidth. Experimental results demonstrate that the proposed design can collaboratively perform training tasks with optimized efficiency and provide dependable collaborations for system fault detection and cluster extension..'
+date: 2022-10-01
+venue: 'IEEE Tran. Industrial Informatics'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+
 ---
-This paper is about the number 3. The number 4 is left for future work.
+The descending of intelligence from the cloud to the heterogeneous and low-power edge in the Artificial Intelligence-of-Things prevents uploading user-sensitive information to the cloud. It brings an urgent demand for deploying training tasks collaboratively in industrial scenarios to manage data locally. This article proposes an edge-based collaborative training system for the smart factory which harnesses the intelligence of edge devices by balancing the computational and communicational resources and improving system dependability. Two typical scenarios of parts recognition and defect inspection are evaluated as a case study with our system. The feasibility and dependability of the presented system are verified with a platform composed of eight high-performance (Nvidia Jetson Nano) and eight low-performance edge devices (Raspberry Pi 4B). The efficiency under tradeoff between computational resource and network condition constraints in a cluster is tested to simulate real-case performance in smart factory scenarios. Our platform reaches the peak performance of 1167 images/s training efficiency on ResNet32 under a 125 MB/s bandwidth. Experimental results demonstrate that the proposed design can collaboratively perform training tasks with optimized efficiency and provide dependable collaborations for system fault detection and cluster extension.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
