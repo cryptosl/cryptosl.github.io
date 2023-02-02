@@ -11,8 +11,15 @@ Introduction
 ======
 Dr Li is an associate professor in cyber security at Cardiff University. His research Interests includes cyber security, IoT, digital forensics, lightweight crypto, and industrial security related topics. In the past few years, he has been working on a number of research projects funded by the DCMS, Home Office, EPSRC, EU, and Industrial partners. 
 
-Research Background
+PhD, RAs, and VRFs
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am currently accpeting PhD students, RAs, and visiting researchers on cyber security topics, please directly make applications as adversed by the following links:
 
+Bring cutting-edge AI to the digital forensic analysis, 
+https://www.findaphd.com/phds/project/bring-cutting-edge-ai-to-the-digital-forensic-analysis/?p154623
 
+Advanced privacy-enhancing techniques using homomorphic encryption in cloud computing, 
+https://www.findaphd.com/phds/project/advanced-privacy-enhancing-techniques-using-homomorphic-encryption-in-cloud-computing/?p154622
+
+Self-supervised learning defending against advanced cyber threats in IoT, 
+https://www.findaphd.com/phds/project/self-supervised-learning-defending-against-advanced-cyber-threats-in-iot/?p154624
