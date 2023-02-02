@@ -15,6 +15,8 @@ PhD, RAs, and VRFs
 ======
 I am currently accpeting PhD students, RAs, and visiting researchers on cyber security topics, please directly make applications as adversied by the following links:
 
+ * [Bring cutting-edge AI to the digital forensic analysis]([https://shopify.github.io/liquid/tags/control-flow/](https://www.findaphd.com/phds/project/bring-cutting-edge-ai-to-the-digital-forensic-analysis/?p154623))
+
 Bring cutting-edge AI to the digital forensic analysis, 
 https://www.findaphd.com/phds/project/bring-cutting-edge-ai-to-the-digital-forensic-analysis/?p154623
 
