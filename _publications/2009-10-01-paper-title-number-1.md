@@ -6,10 +6,10 @@ excerpt: 'This paper is about Lightweight Privacy-Preserving Scheme Using Homomo
 date: 2009-10-01
 venue: 'IEEE Internet of Things Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/9384892'
-citation: 'LI, S., (2022). &quot;IoT Privacy Enhancing Techniques .&quot; <i>Journal 1</i>. 1(1).'
+citation: 'LI, S., (2022). &quot;IoT Privacy Enhancing Techniques .&quot; <i>IEEE Internet of Things Journal</i>. 9(16).'
 ---
 This paper is about the Lightweight Privacy-Preserving Scheme Using Homomorphic Encryption in Industrial Internet of Things.
 
 [Download paper here](https://ieeexplore.ieee.org/document/9384892)
 
-Recommended citation: Li, S., (2022). "Lightweight Privacy-Preserving Scheme Using Homomorphic Encryption in Industrial Internet of Things." <i>IEEE Internet of Things Journal</i>. 1(1).
+Recommended citation: Li, S., (2022). "Lightweight Privacy-Preserving Scheme Using Homomorphic Encryption in Industrial Internet of Things." <i>IEEE Internet of Things Journal</i>. 9(16).
